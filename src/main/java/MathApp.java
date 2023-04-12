@@ -8,6 +8,6 @@ public class MathApp {
         int result;
 
         result = a - c;
-        System.out.println(results);
+        System.out.println("The Answer it"result);
     }
 }
